@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleQuests:jar">
+    <output-path>$USER_HOME$/Servers/1.8/plugins</output-path>
+    <root id="archive" name="SimpleQuests.jar">
+      <element id="module-output" name="SimpleQuests" />
+    </root>
+  </artifact>
+</component>

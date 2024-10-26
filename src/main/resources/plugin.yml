@@ -1,0 +1,5 @@
+name: SimpleQuests
+version: '${project.version}'
+main: com.stormymc.simplequests.SimpleQuests
+commands:
+  quests:

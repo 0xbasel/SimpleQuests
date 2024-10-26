@@ -1,0 +1,5 @@
+name: SimpleQuests
+version: '1.0-SNAPSHOT'
+main: com.stormymc.simplequests.SimpleQuests
+commands:
+  quests:
